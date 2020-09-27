@@ -15,6 +15,6 @@ if "fast" in lifestyle:
 elif "busy" in lifestyle:
     print("You should get Model 3")
 elif "slow" in lifestyle:
-    print("You should get ")
+    print("You should get a Model Y or Model X ")
 else:
     print("Sorry, but a Tesla is not for you :(")
