@@ -1,11 +1,7 @@
 from random import choice
 
 def get_bot_response(user_response):
-
-
-print("Hi, I am Maiya, Shahir's Assistant\n")
-
-print("I will help you choose the right Tesla model for you!\n")
+    print("I will help you choose the right Tesla model for you!\n")
 
 print("Let's get started!\n")
 
