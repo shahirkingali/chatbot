@@ -42,6 +42,6 @@ elif "slow" in lifestyle:
 elif "chill" in lifestyle:
     print("Model Y, Model S")
 else:
-    print("Sorry, but a Tesla is not for you :(")
+    print("Sorry, but a Tesla is not for you :(!")
 
 exit()
